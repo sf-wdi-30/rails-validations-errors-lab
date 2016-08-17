@@ -4,7 +4,7 @@ Starter code and challenges for Validations & Error-Handling in Rails.
 
 ## Getting Started
 
-1. Fork this repo, and clone it into your WDI class folder on your local machine.
+1. Clone this repo into your WDI class folder on your local machine.
 2. Run `bundle` in the Terminal to install gems from the Gemfile.
 3. Run `rake db:create db:migrate` in the Terminal to create your local database and run the migrations.
 4. Run `rails s` in the Terminal to start your server.
